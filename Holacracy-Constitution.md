@@ -1,509 +1,553 @@
-# **Holacracy Constitution**
+# **COSTITUZIONE di HOLACRACY - v.5.0 del 2020 12 08**
 
-## Preamble
+## preambolo
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+i RATIFICATORI adottano questa COSTITUZIONE attribuendole struttura formale dell’autorità dell’ORGANIZZAZIONE specificata. i RATIFICATORI e tutti gli altri PARTNER che l’ORGANIZZAZIONE ha designato come componenti attivi per espletare la propria GOVERNANCE e le proprie attività devono attenersi alle regole ed ai processi qui definiti.
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+i RATIFICATORI o i propri successori possono emendare questa COSTITUZIONE o abrogarla poggiando sulla stessa autorità alla quale hanno fatto ricorso per adottarla.
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+ogni eventuale modifica deve essere apportata per iscritto e resa pubblica a tutti i PARTNER.
 
 
-## Article 1: Organizational Structure
+## articolo 1 – struttura organizzativa
 
-### 1.1 Role Definition
+### 1.1	definizione di RUOLO
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization.  A Role definition consists of a descriptive name and one or more of the following:
+un RUOLO è un costrutto organizzativo che una persona può ricoprire e quindi energizzare per conto dell’ORGANIZZAZIONE. la definizione di RUOLO consiste di un nome descrittivo ed uno o più dei seguenti componenti elementari:
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+•	(a) un PROPOSITO, ovvero una capacità, un potenziale o un obiettivo che il RUOLO intende perseguire o esprimere.
+•	(b) un o più DOMINI, che sono beni, processi o altre cose che il RUOLO controlla in maniera esclusiva e regolata come sua proprietà, ed in linea con i propri PROPOSITI.
+•	(c) una o più RESPONSABILITÀ, che sono attività sistematiche che il RUOLO gestirà ed attuerà al servizio di altri RUOLI o comunque per supportare il proprio PROPOSITO.
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+un RUOLO può anche detenere una o più “POLICY”; queste rappresentano conferimenti o vincoli di autorità, o anche regole speciali che si applicano all’operatività specifica del RUOLO stesso.
 
-### 1.2 Role Assignment
+### 1.2	assegnazione di un RUOLO
 
-A Role may control who fills another Role by holding a Domain of assignments to that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from the Role at any time. A Policy may further constrain Role assignments or removals.
+un RUOLO può avere il controllo di chi energizza un altro RUOLO (al quale, per chiarezza, ci riferiremo come RUOLO target), grazie ad uno specifico DOMINIO che autorizza tale assegnazione. chi esercita questo DOMINIO può assegnare il RUOLO target a chiunque ne accetti l’incarico, eventualmente anche a più persone contemporaneamente. tale energizzatore - o tali energizzatori - vengono indicati come ROLE LEAD del RUOLO target.
+ogni ROLE LEAD può, in qualunque momento successivo, dimettersi da tale incarico, tranne nel caso in cui vi sia in essere un differente accordo.
+chi esercita un simile DOMINIO potrà anche rimuovere, in qualunque istante, una persona dall’incarico di ROLE LEAD del RUOLO target.
 
-#### 1.2.1 Default Assignment
+#### 1.2.1	assegnazione di default
 
-When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
+quando un RUOLO risulta non energizzato, chiunque ne abbia in carico l’assegnazione viene automaticamente considerato ROLE LEAD dello stesso.
 
-When a Role is filled but not by anyone who is a Partner of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners assigned to the Role are not actively fulfilling the relevant responsibilities and duties.
+quando RUOLO non annovera tra i suoi ROLE LEAD alcun PARTNER dell’ORGANIZZAZIONE, allora qualunque PARTNER che controlla l’assegnazione viene automaticamente considerato ROLE LEAD anche di quel RUOLO. tuttavia, questo incarico predefinito si applica solo nella misura in cui coloro che sono stati normalmente assegnati come energizzatori di quel RUOLO non stanno adempiendo del tutto alle RESPONSABILITÀ e ai doveri ad esso associati.
 
-#### 1.2.2 Focusing an Assignment
+#### 1.2.2	focalizzare un’assegnazione
 
-A Role assigner may focus an assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
+chi assegna un RUOLO può focalizzare l’assegnazione ad una specifica area o contesto, sempre che tutti gli elementi di definizione del RUOLO siano consistenti con tale focalizzazione. quando si ricorre ad una focalizzazione, ogni assegnazione focalizzata viene trattata come un RUOLO completamente separato, ed il PROPOSITO, le RESPONSABILITÀ ed i DOMINI del RUOLO si applicano solo relativamente allo specifico focus specificato per ogni incarico.
 
-### 1.3 Responsibilities of Role-Filling
+### 1.3	RESPONSABILITÀ nel ricoprire un RUOLO
 
-When filling a Role, you have the following responsibilities:
+se energizzi un RUOLO, ti assumi le seguenti responsabilità:
 
-#### 1.3.1 Processing Tensions
+#### 1.3.1	processare le TENSIONI
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+sei responsabile di confrontare l’attuale PROPOSITO del RUOLO e le sue RESPONSABILITÀ espresse con la tua visione delle relative potenzialità ideali, al fine di indentificare eventuali gap (ciascun gap rappresenta una TENSIONE). diventi dunque responsabile di tentare di risolvere queste TENSIONI.
 
-#### 1.3.2 Processing Purpose & Accountabilities
+#### 1.3.2	processare PROPOSITO e RESPONSABILITÀ
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+sei responsabile di considerare costantemente il modo di perseguire il PROPOSITO ed assolvere ogni RESPONSABILITÀ del tuo RUOLO, grazie alla definizione di:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+•	(a) “PROSSIME AZIONI”, che sono azioni utili da poter intraprendere immediatamente, almeno in assenza di altre PRIORITÀ;
+•	(b) “PROGETTI”, che rappresentano risultati specifici più complessi ed utili da perseguire, su cui lavorare, almeno in assenza di altre PRIORITÀ.
 
-#### 1.3.3 Breaking Down Projects
+#### 1.3.3	scomporre i PROGETTI
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+sei responsabile di definire regolarmente la PROSSIMA AZIONE di ciascun PROGETTO attivo, per ciascuno dei tuoi RUOLI.
 
-#### 1.3.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.3.4	mantenere traccia di PROGETTI, PROSSIME AZIONI e TENSIONI
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+sei responsabile di documentare e tracciare ogni PROGETTO (e le relative PROSSIME AZIONI), inerente al tuo RUOLO, sotto forma di liste scritte. analogamente sei responsabile anche di tracciare le TENSIONI che intendi risolvere, almeno fin quando non le avrai processate e tradotte in PROGETTI o PROSSIME AZIONI. 
+sarai anche responsabile della costante revisione ed aggiornamento delle suddette liste, in modo tale che esse rappresentino una fonte attendibile del potenziale carico lavorativo di quel RUOLO.
 
-#### 1.3.5 Executing Next-Actions
+#### 1.3.5	eseguire le PROSSIME AZIONI
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+ogni volta che hai tempo disponibile per eseguire attività relative ad un tuo RUOLO, sei responsabile di considerare quali PROSSIME AZIONI intentare, eseguendo quella che aggiunge maggior valore all’ORGANIZZAZIONE.
 
-### 1.4 Circles
+### 1.4	CERCHI
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+un CERCHIO è un contenitore per organizzare RUOLI e POLICY attorno ad un PROPOSITO comune. 
+i RUOLI e le POLICY all’interno di un CERCHIO ne costituiscono la propria GOVERNANCE in atto.
 
-#### 1.4.1 Breaking Down Roles
+#### 1.4.1	scomporre i RUOLI
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in Appendix A, which may not be further broken down.
+ogni RUOLO internamente è assimilabile ad un CERCHIO. può nascere per esso l’esigenza di scomporsi in ulteriori RUOLI e dotarsi di specifiche POLICY in maniera da scomporre ordinatamente ed organizzare il proprio lavoro. 
+tutto ciò non è applicabile ai RUOLI definiti in APPENDICE A, in quanto questi vanno considerati come RUOLI essenziali e per tanto non scomponibili.
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+si distinguono così SUPER-CERCHI (lo è quello che contiene il RUOLO che andrà a scomporsi), e SOTTO-CERCHI (lo è quello che prende vita dalla scomposizione del RUOLO che abbiamo preso in considerazione in partenza).
 
-#### 1.4.2 Delegating Domains
+#### 1.4.2	dare in delega i DOMINI
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+quando un CERCHIO cede un proprio DOMINIO ad uno dei suoi RUOLI, ogni ROLE-LEAD di quel RUOLO può controllare tale DOMINIO per conto del CERCHIO. un CERCHIO può trasferire ai propri RUOLI solamente DOMINI afferenti al CERCHIO stesso, o DOMINI che nascono e sono rilevanti solamente all’interno di processi circoscritti a quel CERCHIO.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies trump those defined by the Role in the event of a conflict.
+una volta che un RUOLO ha il controllo di un DOMINIO, può creare POLICY per governare tale DOMINIO all’interno della propria attività di GOVERANCE. comunque, il CERCHIO che ha delegato il DOMINIO detiene ugualmente il diritto di definire proprie POLICY di governo su quello stesso DOMINIO. in caso di conflitto, le POLICY definite dal CERCHIO prevalgono su quelle definite dal RUOLO.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+la delega di un DOMINIO ad un RUOLO non estende alcuno dei diritti che il CERCHIO detiene per quanto riguarda il controllo di spese in denaro o di beni, a meno che non sia esplicitamente specificato.
 
-#### 1.4.3 Anchor Circle
+#### 1.4.3	il CERCHIO di ANCORAGGIO
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+si definisce CERCHIO di ANCORAGGIO il CERCHIO più ampio che detiene il PROPOSITO dell’intera organizzazione.
+il CERCHIO di ANCORAGGIO possiede tutte le autorità e i DOMINI che la stessa ORGANIZZAZIONE controlla, e per esso non esiste alcun SUPER-CERCHIO e nessuna RESPONSABILITÀ. il CERCHIO di ANCORAGGIO può modificare il proprio PROPOSITO ricorrendo ad una POLICY.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+una volta adottata la presente COSTITUZIONE, i RATIFICATORI possono definire una struttura iniziale ed una ulteriore GOVERNANCE all’interno del CERCHIO di ANCORAGGIO. (ricorda la definizione di GOVERNANCE che è stata data ad inizio paragrafo 1.4: altri RUOLI, POLICY).
 
-#### 1.4.4 Linking Into Circles
+#### 1.4.4	collegamenti ai CERCHI
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+un RUOLO può essere collegato anche con altri CERCHI nel caso in cui venga invitato attraverso una POLICY di quel CERCHIO o di qualunque suo SUPER-CERCHIO.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+una volta stabilito questo collegamento, tale RUOLO viene considerato parte della GOVERNANCE del CERCHIO con cui è collegato. quest’ultimo può apportare delle aggiunte a tale RUOLO che potrà poi anche modificare (ma solo limitatamente alle aggiunte apportate). in ogni caso, tale CERCHIO non potrà modificare né cancellare nulla di ciò che è stato aggiunto da altri CERCHI (che ne avevano l’autorità) e viceversa. l’autorità di aggiungere o apportare cambiamenti alle assegnazioni di un RUOLO è limitata per ogni CERCHIO, sulla base dei link esistenti e delle rispettive aggiunte apportate dai vari CERCHI collegati a quel RUOLO. questo tipo di collegamento fra CERCHIO e RUOLO non rende il primo un SUPER-CERCHIO per il secondo e, ugualmente, alcun CERCHIO interno al RUOLO può essere considerato un SOTTO-CERCHIO del CERCHIO a cui il RUOLO è collegato.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+un CERCHIO può scollegare un RUOLO rimuovendo la POLICY con cui il collegamento era stato creato o attraverso un altro meccanismo definito nella stessa POLICY di riferimento. anche il RUOLO può scegliere di rimuoversi dal CERCHIO a cui è collegato, a meno che la POLICY con cui il link è stato creato (dal CERCHIO o da un SUPER-CERCHIO) non impedisca esplicitamente questa possibilità. una volta scollegato da un CERCHIO, qualsiasi GOVERNANCE che era stata aggiunta al RUOLO da quel CERCHIO viene automaticamente rimossa.
 
-### 1.5 Circle Leads
+#### 1.4.5	creare CERCHI tra RUOLI esistenti
 
-Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+due o più RUOLI possono in qualunque momento creare un nuovo CERCHIO per governare un PROPOSITO condiviso fra u RUOLI in questione. affinché ciò sia possibile, i RUOLI fondatori devono stabilire di comune accordo un PROPOSITO per il CERCHIO nascente, che quest’ultimo potrà poi anche modificare tramite una POLICY. il nuovo CERCHIO prende vita grazie ai RUOLI fondatori ad esso collegati e ad una POLICY che descrive tali collegamenti. un CERCHIO creato in questo modo non può avere SUPER-CERCHI, RESPONSABILITÀ, e nemmeno DOMINI se non in presenza di una POLICY grazie alla quale un altro CERCHIO gliene deleghi il controllo.
+un CERCHIO che nasce in questo modo può immediatamente scomparire nel caso in cui, ad un certo punto, non ha più RUOLI ad esso collegati.
 
-#### 1.5.1 Defining Priorities & Strategies
+### 1.5	CIRCLE LEADS
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+chiunque faccia da ROLE LEAD per un determinato RUOLO automaticamente energizza anche il RUOLO di CIRCLE LEAD del CERCHIO interno a quel RUOLO, fungendo quindi così anche da CIRCLE LEAD. il RUOLO di CIRCLE LEAD viene definito nell’appendice A. un CERCHIO sprovvisto di SUPER-CERCHI non ha CIRCLE LEAD a meno che un POLICY del CERCHIO stabilisca diversamente.
 
-#### 1.5.2 Routing External References
+#### 1.5.1	definire PRIORITÀ & STRATEGIE
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+un CIRCLE LEAD può fare una valutazione in termini di costi/benefici di qualunque attività potenziale di un CERCHIO al fine di risolvere conflitti legati alle PRIORITÀ che i differenti RUOLI si attribuiscono autonomamente. un CIRCLE LEAD può anche ricorrere alla definizione di una STRATEGIA per il CERCHIO, o più STRATEGIE, tali da consentire in maniera anche euristica una prioritizzazione delle attività all’interno di un CERCHIO.
 
-#### 1.5.3 Amending the Circle Lead Role
+#### 1.5.2	l’indirizzamento di riferimenti esterni
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+ogni volta che la GOVERNANCE al di fuori del CERCHIO fa riferimento al CERCHIO stesso o a qualcuno dei suoi RUOLI, il CIRCLE LEAD può specificare quel riferimento ad un preciso RUOLO del suo CERCHIO. questo tipo di operazione non viene considerata una modifica alla GOVERNANCE di quel CERCHIO.
 
-A Circle may add Accountabilities or Domains to its Circle Lead Role, and those additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role.
+#### 1.5.3	modifica del RUOLO di CIRCLE LEAD
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+un CERCHIO non può modificare il PROPOSITO del RUOLO di CIRCLE LEAD, né può rimuovere questo RUOLO.
 
+un CERCHIO può aggiungere RESPONSABILITÀ o DOMINI al RUOLO di CIRCLE LEAD e tali aggiunte si applicano automaticamente anche ad ogni RUOLO di CIRCLE LEAD di tutti i suoi SOTTO-CERCHI, ricorsivamente. un CERCHIO non può aggiungere RESPONSABILITÀ o DOMINI solo al proprio RUOLO di CIRCLE LEAD.
 
-## Article 2: Tactical Meetings
+un CERCHIO può rimuovere qualsiasi RESPONSABILITÀ, DOMINIO, autorità o funzione dal proprio RUOLO di CIRCLE LEAD. può farlo sia conferendo tali elementi ad un altro RUOLO del CERCHIO che definendo modi alternativi per metterli in atto. viene così automaticamente rimosso l’elemento essenziale dal RUOLO di CIRCLE LEAD del CERCHIO, fintanto che rimane in vigore questa delega (è un aspetto di GOVERNANCE).
 
-In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
 
-### 2.1 Attendance
 
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Partners serving as Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
+## articolo 2 – doveri verso gli energizzatori degli altri RUOLI
 
-### 2.2 Meeting Process
+come ROLE LEAD, hai i seguenti doveri verso gli altri ROLE LEAD dell’organizzazione, allorquando questi agiscono come energizzatori dei propri RUOLI.
 
-The Partner convening a Tactical Meeting must find someone to facilitate it. Unless a Policy says otherwise, that person must use the following process:
+### 2.1	dovere di TRASPARENZA
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+se ti viene richiesto, hai il dovere di dare visibilità in ciascuna delle seguenti aree:
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+•	(a) PROGETTI e PROSSIME AZIONI: devi condividere qualunque PROGETTO o PROSSIMA-AZIONE che stai seguendo in ciascuno dei tuoi RUOLI.
+•	(b) PRIORITÀ relativa: devi condividere il tuo parere sulla PRIORITÀ relativa dei PROGETTI o PROSSIME AZIONI pertinenti a ciascun tuo RUOLO rispetto a qualsiasi altra attività che richiede la tua attenzione.
+•	(c) proiezioni: devi fornire una stima su quando prevedi di completare ciascuno dei PROGETTI o delle PROSSIME AZIONI che riguardano ciascuno dei tuoi RUOLI. è sufficiente una stima approssimativa, che prenda in considerazione il contesto e le PRIORITÀ attuali. non è richiesta un’analisi o una pianificazione dettagliata e comunque, questa tua proiezione, non rappresenta in alcun modo un impegno. a meno che la GOVERANANCE non dica diversamente, non hai alcun obbligo di aggiornare questa proiezione o di mantenere il destinatario aggiornato.
+•	(d) elementi della CHECK-LIST: devi verificare il completamento di tutte azioni ricorrenti in carico ai tuoi RUOLI o in quanto PARTNER dell’organizzazione. se richiesto, devi continuare a condividere queste verifiche regolarmente, finché non ritieni che non siano più utili.
+(e) METRICHE: devi condividere tutte le METRICHE che collezioni in quanto energizzatore dei tuoi RUOLI o in quanto PARTNER dell’organizzazione. se richiesto, devi continuare a condividere queste METRICHE regolarmente, finché non realizzi che non siano più utili.
+•	(f) aggiornamento dei progressi: devi condividere un sunto dei progressi che hai ottenuto nei tuoi RUOLI o nei confronti di ciascuno dei PROGETTI in carico ai tuoi RUOLI, dall’ultimo aggiornamento che hai condiviso. se richiesto, devi continuare a condividere questi aggiornamenti regolarmente, finché non realizzi che non siano più utili.
 
-### 2.3 Surrogate for Absent Members
+### 2.2	dovere di processamento
 
-If any Role defined by a Circle and invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent that Role during the meeting.
+hai il dovere di processare puntualmente messaggi e richieste, come di seguito descritto:
 
+•	(a) richieste di processamento: altri potrebbero chiederti di processare il PROPOSITO o qualunque RESPONSABILITÀ o PROGETTO del tuo RUOLO. tu dovrai quindi determinare e comunicare una PROSSIMA AZIONE per far avanzare quanto ti è stato richiesto, se ce ne sono che potresti intraprendere. se non ce ne fossero, allora dovrai dichiarare che sei in attesa di poter determinare la tua PROSSIMA AZIONE. 
+se la PROSSIMA AZIONE, o ciò che dichiari di star aspettando, fa parte di un risultato più ampio da perseguire per il tuo RUOLO, allora devi coglierlo e comunicarlo come PROGETTO.
+•	(b) richieste di PROGETTI e PROSSIME AZIONI: altri potrebbero chiederti di prendere in carico al tuo RUOLO una specifica PROSSIMA AZIONE o un PROGETTO. se ritieni che ciò sia coerente col tuo RUOLO, dovrai accettarlo e tenerne traccia almeno in assenza di PRIORITÀ concorrenti. se ritieni di rifiutare, devi spiegarne il motivo o suggerire un’alternativa che ritieni possa comunque soddisfare l’obiettivo del richiedente.
+•	(c) richieste di impatto sul DOMINIO: altri potrebbero chiederti di poter impattare, con le proprie attività, un DOMINIO controllato da un tuo RUOLO. dovrai consentire l’impatto se non vedi motivi per cui ciò possa ostacolare il raggiungimento del PROPOSITO del tuo RUOLO o le RESPONSABILITÀ. se invece pensi che l’impatto costituirebbe un ostacolo allora dovrai spiegarne le ragioni al richiedente.
+•	(d) richieste di informazioni: altri potrebbero porti domande o richiedere informazioni che sono di pertinenza di un tuo RUOLO. dovrai rispondere in buona fede, almeno con brevi risposte o con qualunque informazione che hai prontamente a disposizione.
 
-## Article 3: Duties to Others
+### 2.3	dovere di PRIORITIZZAZIONE
 
-As a Role Lead, you have the following duties to other Role Leads in the Organization when they're acting on behalf of their own Roles.
+hai il dovere di orientare la tua attenzione secondo le PRIORITÀ che emergono dai seguenti punti:
 
-### 3.1 Duty of Transparency
+•	(a) processamento: generalmente devi dare PRIORITÀ al processamento dei messaggi che ti arrivano dagli altri RUOLI, rispetto all’esecuzione di una tua qualunque PROSSIMA AZIONE. tuttavia, puoi posticipare il processamento dei messaggi a lotti e farlo in un momento per te conveniente, purché l’elaborazione risulti ancora puntuale. il processamento a cui ci si sta riferendo include tutti i compiti previsti da questo ARTICOLO, compresa la successiva condivisione – se richiesta – del modo in cui il messaggio è stato processato. il processamento non include l’esecuzione di attività basata su alcuna delle PROSSIME AZIONI o PROGETTI che hai in carico.
+•	(b) riunioni: hai l’obbligo di dare PRIORITÀ a qualunque riunione definita in questa COSTITUZIONE, rispetto all’esecuzione di una tua qualunque PROSSIMA AZIONE, ma solo quando questa PRIORITÀ è esplicitamente richiesta per uno specifico meeting. puoi comunque declinare la richiesta nel caso in cui avessi già programmato altri impegni nella stessa fascia oraria.
+•	(c) PRIORITÀ del CERCHIO: quando stabilisci su cosa lavorare, hai il dovere di considerare ogni eventuale STRATEGIA ufficiale o PRIORITÀ poste dal CERCHIO al quale il tuo RUOLO appartiene o anche da altro SUPER-CERCHIO. sono da considerare ufficiali quelle PRIORITÀ definite dal CIRCLE LEAD o da qualunque altro RUOLO o processo che ha l’autorità di risolvere conflitti di priorità e definire STRATEGIE per un CERCHIO. è tuo dovere quindi considerare queste PRIORITÀ ufficiali più importanti per l’ORGANIZZAZIONE di quanto possa esserlo una tua PRIORITÀ individuale o comunque una tua personale percezione di quali possano essere le PRIORITÀ per l’ORGANIZZAZIONE.
+•	(d) scadenze: se la GOVERNANCE o qualunque altra STRATEGIA ufficiale o PRIORITÀ di un CERCHIO include anche una data di scadenza per la chiusura di una determinata attività, non sei necessariamente tenuto a rispettarla. piuttosto, devi considerarla come una PRIORITÀ ufficiale per tutte le azioni necessarie a rispettare quella scadenza e valutarla rispetto a tutte le altre attività del CERCHIO; quindi dovrai agire di conseguenza. un CIRCLE LEAD o un altro RUOLO o processo avente l’autorità di risolvere conflitti di PRIORITÀ fra RUOLI può ridefinire la prioritizzazione precedentemente posta.
 
-You have a duty to provide transparency in any of the following areas upon request:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's relevant to your Roles and readily available to you.
 
-### 3.2 Duty of Processing
+## articolo 3 – RIUNIONI TATTICHE
 
-You have a duty to promptly process messages and requests, as follows:
+nell’energizzare un RUOLO, qualunque PARTNER può convocare una RIUNIONE TATTICA in modo tale da coinvolgere altri RUOLI secondo le proprie RESPONSABILITÀ e doveri.
 
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action. If whatever you share is part of a broader outcome you are pursuing in your Role, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+### 3.1	presenza
 
-### 3.3 Duty of Prioritization
+il PARTNER che convoca una RIUNIONE TATTICA deve individuare i RUOLI di cui richiede la presenza al meeting. tutti i PARTNER che hanno la funzione di ROLE LEAD di tali RUOLI sono invitati a partecipare, se non diversamente indicato dall’organizzatore nel caso in cui preferisse restringere l’invito ad un sottoinsieme di ROLE LEAD di un dato RUOLO.
 
-You have a duty to prioritize your attention in alignment with the following:
+### 3.2	svolgimento della riunione
 
-- **(a) Processing:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when this prioritization is explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for a Circle. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+il PARTNER che convoca una RIUNIONE TATTICA deve trovare qualcuno che ne faccia da FACILITATORE. in assenza di POLICY che affermino il contrario, questa persona deve attuare il seguente processo:
 
+•	(a) CHECK-IN ROUND: ciascun partecipante, quando è il proprio turno, condivide il proprio stato o esprime qualunque pensiero abbia voglia di comunicare per la riunione. non sono consentite risposte.
+•	(b) REVISIONE DELLE CHECKLIST: ciascun partecipante verifica pubblicamente il completamento di ciascuna attività ricorrente su cui riferisce regolarmente per i propri RUOLI nel meeting.
+•	(c) REVISIONE DELLE METRICHE: ciascun partecipante condivide le METRICHE su cui riferisce regolarmente per i propri RUOLI nel meeting.
+•	(d) AGGIORNAMENTO DEI PROGRESSI: ciascun partecipante evidenzia i progressi fatti che riguardano qualunque PROGETTO o altra iniziativa su cui riferisce regolarmente per i propri RUOLI nel meeting. i partecipanti possono condividere solo i progressi fatti dal precedente incontro e/o report e non lo stato di avanzamento generale di ogni attività.
+•	(e) COSTRUZIONE DELL’AGENDA: i partecipanti costruiscono un’agenda di TENSIONI da processare durante il meeting. ciascun partecipante può richiedere l’aggiunta di un qualsivoglia numero di punti in agenda, fornendo un breve titolo per ciascuno di essi. non sono consentite spiegazioni o discussioni in questa fase. l’aggiunta di punti agenda da parte dei partecipanti è consentita anche successivamente a questa fase, durante gli intervalli di processamento dei punti agenda già esistenti.
+•	(f) TRIAGE DELLE TENSIONI: per il processamento di ciascun punto in agenda, il suo titolare può avanzare richieste al posto di un altro partecipante, o rappresentandolo in toto come PARTNER o rappresentandone un suo specifico RUOLO all’interno del meeting. in ogni caso, ogni richiesta fatta ad un RUOLO deve necessariamente essere espressa da uno specifico RUOLO che il richiedente sta rappresentando durante il meeting. 
+il FACILITATORE della riunione alloca il tempo per ciascun punto in agenda in modo tale da dare spazio a tutti i punti inseriti ed ha facoltà di interrompere il processamento di qualunque questione che sfori il tempo ad essa allocato.
+•	(g) CLOSING ROUND: ciascun partecipante, quando è il proprio turno, condivide una riflessione conclusiva sul meeting. non sono consentite risposte.
 
-## Article 4: Governance
+una POLICY di un CERCHIO può specificare un processo alternativo o modificare questo predefinito per le RIUNIONI TATTICHE convocate da un qualunque RUOLO del CERCHIO.
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+### 3.3	sostituto per membro assente
 
-### 4.1 Governance Participants
+se un qualunque RUOLO appartenente ad un CERCHIO ed invitato ad una RIUNIONE TATTICA non è rappresentato nel meeting per una qualsivoglia ragione, un CIRCLE LEAD di quel RUOLO può rappresentarlo al suo posto.
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-#### 4.1.1 Circle Reps
+## articolo 4 – PASSAGGIO DI POTERE
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
+adottando questa COSTITUZIONE, i RATIFICATORI cedono il loro potere di governo e conduzione dell’organizzazione secondo le regole ed i processi qui rappresentati, fatta eccezione degli eventuali poteri che non hanno autorità di delegare. in qualità di PARTNER, puoi fare affidamento sulle autorità concesse da questa COSTITUZIONE nella misura massima con cui i RATIFICATORI detenevano tali autorità prima di adottarla.
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+### 4.1	autorità degli energizzatori di un RUOLO
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+in qualità di ROLE LEAD, hai l’autorità di intraprendere qualunque azione e decisione per adempiere ai PROPOSITI ed alle RESPONSABILITÀ del tuo RUOLO, fintantoché non violi alcuna regola definita in questa COSTITUZIONE.
+quando stabilisci le priorità e scegli fra le tue AZIONI potenziali, hai l’autorità di utilizzare il tuo ragionevole giudizio sul valore relativo che ciascuna riveste per l’ORGANIZZAZIONE.
+puoi ricorrere al tuo ragionevole giudizio anche per interpretare questa COSTITUZIONE e qualunque aspetto ricada sotto la sua autorità. puoi ulteriormente interpretare il modo in cui essa si applica a qualsiasi situazione specifica in cui ti vieni a trovare e quindi agire di conseguenza, sulla base delle tue interpretazioni. in ogni caso, devi interpretare ogni aspetto di GOVERNANCE nel contesto del PROPOSITO e delle RESPONSABILITÀ del CERCHIO interessato. non ti è permesso di ricorrere ad alcuna interpretazione che vada in conflitto con tale contesto.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
+#### 4.1.1	non violare le POLICY
 
-#### 4.1.2 Facilitator and Secretary
+nell’energizzare un tuo RUOLO, non puoi violare alcuna POLICY del RUOLO stesso né quelle eventuali di ogni CERCHIO che contiene tale RUOLO.
 
-Any Circle with more than one Circle Member includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, as defined in Appendix A. The person acting in each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively. Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary.
+#### 4.1.2	ottieni il PERMESSO prima di avere un impatto sui DOMINI
 
-The Circle must use the Integrative Election Process defined herein to select a Facilitator and Secretary. No Role or Policy may assign these Roles or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for these elections are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+nell’energizzare un tuo RUOLO, hai l’autorità di impattare e controllare i DOMINI di quel RUOLO.
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on either Role, nor remove the Role.
+puoi anche avere un impatto su qualunque DOMINIO attinente al CERCHIO che contiene il tuo RUOLO, nel caso in cui tale DOMINIO non sia stato ulteriormente assegnato, o su qualunque DOMINIO sui cui anche il CERCHIO stesso può impattare. se però ritieni che il tuo impatto possa essere sostanzialmente invasivo e/o tale da rendere dispendiosa la possibilità di ripristinare la situazione precedente, allora dovrai ottenere un PERMESSO.
 
-### 4.2 Scope of Governance
+non puoi esercitare il controllo o causare un impatto su un DOMINIO delegato ad un RUOLO o ad un CERCHIO che non contiene il tuo RUOLO, a meno che tu non ne ottenga l’autorizzazione. né puoi farlo su un DOMINIO di proprietà di un’altra entità sovrana, senza autorizzazione.
 
-Within a Circle's Governance Process, its Circle Members may:
+quando ti è necessario un PERMESSO per impattare un DOMINIO, puoi riceverlo da chiunque controlli quel DOMINIO. puoi però ottenerlo anche annunciando la tua intenzione di compiere una specifica azione ed invitando chiunque – pertinentemente al DOMINIO in questione - a sollevare un’obiezione. in questo caso dovrai attendere un tempo ragionevole per consentire le reazioni. se non ci saranno obiezioni, allora avrai il permesso di impattare qualunque DOMINIO di ciascun RUOLO dell’organizzazione che hai raggiunto col tuo annuncio. è lecito che tu assuma che un annuncio scritto raggiunga chiunque tipicamente frequenti quel canale di comunicazione che hai utilizzato. ogni PERMESSO così concesso si applicherà solamente in relazione all’esecuzione dell’azione annunciata. una POLICY può modificare o limitare questa procedura.
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+#### 4.1.3	ottieni un’AUTORIZZAZIONE prima di spendere soldi
 
-No other decisions are valid outputs from a Circle's Governance Process.
+nell’energizzare un tuo RUOLO, non ti è permesso di spendere soldi o altri beni se non previa specifica AUTORIZZAZIONE. questa deve pervenire da un RUOLO o da un CERCHIO che ha già il controllo di tali risorse finalizzate agli acquisti. anche il disporre di una significativa proprietà del CERCHIO o il limitarne significativamente i diritti dello stesso su di essa, richiede lo stesso percorso autorizzativo che per gli acquisti.
 
-#### 4.2.1 Scope of Policy
+per ottenere l’AUTORIZZAZIONE all’acquisto, devi dichiarare la tua intenzione di spesa per iscritto al RUOLO o al CERCHIO dal quale vuoi ottenerla. il canale di comunicazione deve essere quello tipicamente in uso da tutti i PARTNER che energizzano quel RUOLO come ROLE LEAD oppure quello tipicamente più visibile per il CERCHIO. la tua richiesta deve contenere il motivo della spesa, ed il RUOLO dal quale la spesa verrebbe fatta. successivamente dovrai attendere un tempo ragionevole per consentire riflessioni e risposte. ogni destinatario della tua richiesta potrebbe trovare motivi per aumentare l’importo della spesa che avevi previsto e, in tal caso, potresti finire col non essere autorizzato a farla. comunque, un ROLE LEAD e/o un CIRCLE LEAD del RUOLO e/o del CERCHIO interessato può invertire questo incremento, così come lo può anche la stessa persona che lo aveva generato.
+dopo un tempo ragionevole ed in assenza di incrementi di spesa, il tuo RUOLO ottiene il controllo delle risorse richieste. ti è così possibile fare l’acquisto che avevi annunciato o autorizzare, a tua volta, altri a farlo. 
+nel momento in cui ottieni l’AUTORIZZAZIONE, il RUOLO o il CERCHIO dal quale l’hai ottenuta perdono il controllo sulle risorse autorizzate. in ogni caso un ROLE LEAD o un CIRCLE LEAD di quel RUOLO o CERCHIO possono revocare in qualunque istante l’AUTORIZZAZIONE.
 
-A Policy may only be one or more of the following:
+una POLICY può modificare questa procedura in qualunque modo, o anche conferire direttamente al RUOLO l’autorità di controllare risorse del CERCHIO destinate agli acquisti.
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+### 4.2	iniziativa individuale
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+come PARTNER dell’organizzazione, in alcuni casi sei autorizzato ad intraprendere un’INIZIATIVA INDIVIDUALE agendo oltre i limiti dell’autorità dei tuoi RUOLI o anche infrangendo delle regole di questa COSTITUZIONE.
 
-#### 4.2.2 Striking Invalid Governance
+#### 4.2.1	situazioni consentite
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
+puoi intraprendere un’INIZIATIVA INDIVIDUALE solo quando tutte le seguenti condizioni sono verificate:
 
-### 4.3 Governance Process
+•	(a) stai agendo in buona fede per perseguire il PROPOSITO o attuare le RESPONSABILITÀ di un RUOLO all’interno dell’organizzazione.
+•	(b) credi che la tua azione possa risolvere o prevenire più TENSIONI per l’organizzazione di quante ne potrebbe creare.
+•	(c) la tua azione non esporrà l’organizzazione a spese che possano superare la soglia per la quale tu sei autorizzato a spendere.
+•	(d) se la tua azione dovesse violare una POLICY o un DOMINIO, tu comunque ritieni che la perdita sarebbe maggiore se dovessi ritardarla per poter ottenere l’AUTORIZZAZIONE ad agire o una variazione della GOVERNANCE.
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+#### 4.2.2	comunicazione e ripristino
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections.
+una volta intrapresa un’INIZIATIVA INDIVIDUALE, dovrai spiegarla ad ogni ROLE LEAD che possa esserne significativamente impattato. su richiesta di uno qualunque di questi ROLE LEAD, dovrai intraprendere ulteriori azioni per aiutare a risolvere qualunque TENSIONE creata dalla tua INIZIATIVA INDIVIDUALE. dovrai anche eventualmente indietreggiare rispetto alla tua INIZIATIVA INDIVIDUALE su richiesta di uno qualunque di tali ROLE LEAD.
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+dovrai dare priorità alla comunicazione ed al ripristino richiesti, secondo quanto appena illustrato, rispetto alle tue consuete attività. in ogni caso, un CIRCLE LEAD di un CERCHIO che contiene tutti RUOLI toccati dalla tua azione potrà cambiare questa priorità predefinita.
 
-#### 4.3.1 Proposal Requirements
+### 4.3	come indirizzare l’autorità esistente in precedenza
 
-For a Proposal to be valid, the Proposer must be able to:
+qualunque politica e sistema in vigore per l’ORGANIZZAZIONE prima dell’adozione della presente COSTITUZIONE continua ad essere pienamente valida anche successivamente ed anche se include autorità e vincoli creati da processi estranei alla presente COSTITUZIONE. tuttavia questi non potranno essere ampliati o modificati e perderanno progressivamente ogni peso ed autorità man mano che i processi di questa COSTITUZIONE determineranno la creazione di nuovi strumenti che, sovrapponendosi ai precedenti, di fatto andranno a sostituirli.
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+oltre a ciò, tutte le responsabilità ed i vincoli di un PARTNER derivano da questa COSTITUZIONE e dai risultati dei suoi processi, oltre che da tutti gli obblighi legali che il PARTNER ha nei confronti dell’ORGANIZZAZIONE, mentre agisce per suo conto. nessuna aspettativa o vincolo implicito ha alcun potere su un PARTNER. né lo hanno i dettami emanati dal precedente sistema di potere con cui l’ORGANIZZAZIONE era strutturata prima di adottare questa COSTITUZIONE.
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
 
-#### 4.3.2 Objection Requirements
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+## 5 – GOVERNANCE
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+modificare la GOVERNANCE di un CERCHIO richiede il ricorso al PROCESSO DI GOVERNANCE, qui di seguito definito.
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+### 5.1	i partecipanti alla GOVERNANCE
 
-#### 4.3.3 Testing Potential Objections
+ciascun CERCHIO è dotato di un gruppo di CIRCLE MEMBER con la facoltà di rappresentare i suoi RUOLI nel suo PROCESSO DI GOVERNANCE.
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+i CIRCLE MEMBER di un CERCHIO includono tutti i PARTNER col RUOLO di CIRCLE LEAD (di quello specifico CERCHIO), così come ciascun PARTNER che funge da ROLE LEAD per ogni RUOLO del CERCHIO. se un RUOLO ha più di un ROLE LEAD, un CERCHIO può stabilire di adottare una POLICY per limitare il numero di questi rappresentanti al proprio PROCESSO DI GOVERNANCE.
 
-When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+#### 5.1.1	CIRCLE REP
 
-#### 4.3.4 Rules of Integration
+ogni CIRCLE MEMBER id un CERCHIO può richiedere in qualunque momento una votazione per eleggere o rimpiazzare la figura del CIRCLE REP di quel CERCHIO, la quale è prevista per aiutare a rappresentare quel CERCHIO all’interno di ogni CERCHIO più ampio che lo contiene. la persona così eletta energizzerà il RUOLO di CIRCLE REP di quel CERCHIO, così come definito in APPEDICE A.
 
-While attempting to resolve an Objection, the following rules apply:
+il CERCHIO dovrà utilizzare il PROCESSO di ELEZIONE INTEGRATIVA, qui definito, per poter scegliere il proprio CIRCLE REP, a meno che non vi sia una POLICY che indichi un processo alternativo. 
+solo i CIRCLE MEMBER di un CERCHIO sono eleggibili come CIRCLE REP.
+chiunque energizzi il RUOLO di CIRCLE LEAD del CERCHIO non può contemporaneamente ricoprire anche il RUOLO di CIRCLE REP.
+non più di una persona alla volta può ricoprire il RUOLO di CIRCLE REP, a meno che non vi sia una POLICY di un SUPER-CERCHIO che lo consenta.
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+il CIRCLE REP eletto diventa un CIRCLE MEMBER di ogni CERCHIO esterno che contiene quello di cui egli stesso fa parte e rappresenta. esattamente come accade per un ROLE LEAD, al CIRCLE REP viene riconosciuta l’autorità che deriva dall’energizzare questo RUOLO. un qualunque CERCHIO che lo contiene può limitare o impedire, tramite una POLICY, la possibilità ad un CIRCLE REP di diventare un proprio CIRCLE MEMBER, questo però solo nel caso in cui i propri RUOLI godano di un altro modo comparabile per acquisirne la rappresentatività all’interno del proprio CERCHIO.
 
-#### 4.3.5 Integrative Election Process
+un CERCHIO può aggiungere RESPONSABILITÀ o DOMINI al proprio RUOLO di CIRCLE REP, così come può anche modificare o rimuovere tali aggiunte. nessun CERCHIO può però correggere o rimuovere il PROPOSITO o alcuna delle RESPONSABILITÀ del RUOLO di CIRCLE REP, né tantomeno rimuovere questo RUOLO.
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+#### 5.1.2	FACILITATORE e SEGRETARIO
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+ogni CERCHIO con più di un CIRCLE MEMBER include anche un RUOLO di FACILITATORE ed uno di SEGRETARIO, così come definito in APPENDICE A. le persone che energizzano questi due RUOLI vengono dette rispettivamente FACILITATORE e SEGRETARIO. ogni CIRCLE MEMBER di un CERCHIO può in qualunque istante richiedere una votazione per eleggere o rimpiazzare gli energizzatori di tali RUOLI.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+il CERCHIO dovrà utilizzare il PROCESSO di ELEZIONE INTEGRATIVA, qui definito, per poter scegliere FACILITATORE e SEGRETARIO. nessun RUOLO o POLICY può nominare o rimuovere diversamente questi due RUOLI, né può modificare questo processo. normalmente, gli unici candidati eleggibili sono CIRCLE MEMBER dello stesso CERCHIO. comunque, una POLICY del CERCHIO o qualunque SUPER-CERCHIO può allargare o restringere la lista di candidati eleggibili.
 
-#### 4.3.6 Surrogates for Facilitator & Secretary
+un CERCHIO può aggiungere RESPONSABILITÀ o DOMINI ai propri RUOLI di FACILITATORE e SEGRETARIO, così come può anche modificare o rimuovere tali aggiunte. nessun CERCHIO può però correggere o rimuovere il PROPOSITO, il DOMINIO o alcuna delle RESPONSABILITÀ di base previste per entrambi i RUOLI, né tantomeno rimuovere gli stessi RUOLI.
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+### 5.2	raggio di azione della GOVERNANCE
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+all’interno del PROCESSO di GOVERNANCE di un CERCHIO, i suoi CIRCLE MEMBER possono:
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+•	(a) definire, correggere o rimuovere i RUOLI del CERCHIO; 
+•	(b) definire, correggere o rimuovere le POLICY del CERCHIO;
+•	(c) trasferire RUOLI del CERCHIO o POLICY in un SOTTO-CERCHIO, eventualmente anche più profondo, a condizione che ne soddisfino PROPOSITO e RESPONSABILITÀ;
+•	(d) trasferire RUOLI o POLICY da SOTTO-CERCHI, eventualmente anche più profondi, nel CERCHIO, a condizione che questi non siano più indispensabili per attuare il PROPOSITO o le RESPONSABILITÀ del SOTTO-CERCHIO dal quale provengono;
+•	(e) provvedere alle elezioni di ogni RUOLO elettivo all’interno del CERCHIO.
 
-### 4.4 Governance Meetings
+non ci sono altre decisioni valide e possibili come risultato del PROCESSO di GOVERNANCE di un CERCHIO.
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposal go to a Governance Meeting for real-time processing instead, and the asynchronous processing must then immediately stop.
+#### 5.2.1	raggio di azione delle POLICY
 
-The Circle's Secretary is responsible for scheduling its Governance Meetings, and its Facilitator is responsible for facilitating them in alignment with the rules herein. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+una POLICY può determinare solamente una o più delle seguenti possibilità:
 
-#### 4.4.1 Attendance
+•	(a) una limitazione dell’autorità di uno o più RUOLI contenuti nel CERCHIO;
+•	(b) la concessione di un’autorità che il CERCHIO o il CIRCLE LEAD detiene ad uno o più RUOLI;
+•	(c) la concessione di un’autorità per consentire a determinate persone o RUOLI - non altrimenti autorizzati - di controllare o comunque di poter avere un impatto su uno dei DOMINI del CERCHIO, o di vincolarne il modo in cui poterlo fare allorquando autorizzate;
+•	(d) una nuova regola in grado di modificare un processo o una regola predefinita in questa COSTITUZIONE, sempre che tale possibilità sia esplicitamente consentita.
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+una POLICY che conceda o limiti autorità si applica allo stesso modo in tutti i SOTTO-CERCHI, ricorsivamente, se non diversamente indicato. 
+una POLICY che va a modificare una regola predefinita o un processo contenuto nella COSTITUZIONE si applica solo all’interno del CERCHIO che detiene quella POLICY, o anche, se esplicitamente indicato, all’interno dei suoi SOTTO-CERCHI, ricorsivamente. in quest’ultimo caso, un SOTTO-CERCHIO ha ancora la possibilità di annullare questa POLICY mediante una sua nuova, sempre che ciò non sia esplicitamente proibito dalla POLICY originale.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+#### 5.2.2	rimozione di risultati di GOVERNANCE invalidi
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+ogni PARTNER può chiedere al SEGRETARIO di un CERCHIO di verificare la validità di un qualunque risultato di GOVERNANCE all’interno di quel CERCHIO o di suoi SOTTO-CERCHI. se il SEGRETARIO giunge alla conclusione che quel risultato effettivamente viola le regole di questa COSTITUZIONE, lui stesso dovrà rimuoverlo dalle registrazioni di GOVERNANCE valide per quel CERCHIO. fatto ciò, il SEGRETARIO dovrà prontamente comunicare a tutti i CIRCLE MEMBER di quel cerchio cosa è stato rimosso e perché.
 
-#### 4.4.2 Notice & Duration
+### 5.3	processo di GOVERNANCE
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+qualunque CIRCLE MEMBER di un CERCHIO può avviarne il PROCESSO DI GOVERNANCE proponendo un cambiamento alla GOVERNANCE del suo CERCHIO. il processo prevede che dapprima il PROPONENTE condivida una PROPOSTA scritta a tutti gli altri CIRCLE MEMBER, utilizzando qualunque canale comunicativo consentito dal SEGRETARIO. gli altri CIRCLE MEMBER possono quindi porre delle domande per ottenere chiarimenti, condividere reazioni e sollevare dubbi o preoccupazioni derivanti dall’adozione della proposta. ciascuna di queste preoccupazioni si definirà OBIEZIONE nel caso in cui risponda ai criteri qui riportati. in tal caso, il suo autore verrà indicato come OBIETTORE.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+una volta che ciascun CIRCLE MEMBER conferma di non avere alcuna OBIEZIONE nei confronti di una PROPOSTA, questa viene adottata e va a rettificare la GOVERNANCE del CERCHIO. nel caso in cui venissero sollevate OBIEZIONI, il PROPONENTE e ciascun OBIETTORE dovranno trovare un modo di indirizzare l’OBIEZIONE prima che il CERCHIO possa adottare la PROPOSTA. alla fine di questa attività, dovrà essere data a tutti i CIRCLE MEMBER una nuova opportunità per sollevare OBIEZIONI. un CERCHIO può adottare una POLICY per definire un tempo limite entro il quale poter sollevare OBIEZIONI, trascorso il quale, chiunque non abbia risposto sarà considerato sprovvisto di ogni eventuale OBIEZIONE.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+nell’avanzare PROPOSTE o nel sollevare OBIEZIONI, un CIRCLE MEMBER può rappresentare solamente i RUOLI che energizza nel CERCHIO in qualità di ROLE LEAD o di CIRCLE REP. un CIRCLE MEMBER potrà anche rappresentare un RUOLO il cui ROLE LEAD gli ha temporaneamente affidato l’incarico di rappresentanza e fino a quando tale permesso non scade o viene ritirato.
 
-#### 4.4.3 Meeting Process
+#### 5.3.1	criteri che rendono valida una PROPOSTA
 
-The Facilitator must use the following process for Governance Meetings:
+perché una PROPOSTA sia valida, il PROPONENTE deve essere in grado di:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+•	(a) descrivere una TENSIONE a cui la PROPOSTA si indirizza relativamente ad uno dei suoi RUOLI;
+•	(b) condividere un esempio di una situazione concreta presente o del passato che rappresenti quella TENSIONE;
+•	(c) fornire una spiegazione ragionevole di come la PROPOSTA avrebbe ridimensionato la TENSIONE nell’esempio fornito.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+se, in qualunque istante, dovesse divenire chiaro al FACILITATORE che un PROPOSTA non sia in grado di soddisfare almeno uno di tali criteri, egli stesso dovrà allora scartare la PROPOSTA.
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
+#### 5.3.2	criteri che rendono valida una OBIEZIONE
 
-#### 4.4.4 Agenda Building
+un qualunque dubbio o preoccupazione suscitato dalla potenziale adozione di una PROPOSTA conta come OBIEZIONE solo nel caso in cui l’OBIETTORE è in grado di fornire una ragionevole spiegazione in grado di soddisfare ciascuno dei seguenti criteri:
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+•	(a) la PROPOSTA ridurrebbe la capacità del CERCHIO di perseguire il proprio PROPOSITO o le proprie RESPONSABILITÀ;
+•	(b) la PROPOSTA limiterebbe la capacità dell’OBIETTORE di perseguire il PROPOSITO o una RESPONSABILITÀ di uno dei RUOLI che egli stesso rappresenta all’interno del CERCHIO, anche se non energizzasse alcun altro RUOLO nell’ORGANIZZAZIONE;
+•	(c) il dubbio/preoccupazione non esisterebbe in assenza della PROPOSTA. in tal caso, una nuova TENSIONE si verrebbe a creare proprio se si andasse ad adottare la PROPOSTA;
+•	(d) la PROPOSTA causerebbe sicuramente l’impatto oggetto della preoccupazione o, in ogni caso, se lo dovesse effettivamente causare, il CERCHIO non avrebbe l’opportunità di modificarsi in tempo per evitare un danno risultante significativo.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+comunque, indipendentemente dai criteri sopra espressi, un dubbio/preoccupazione va sempre considerato essere una valida OBIEZIONE nel caso in cui l’adozione della PROPOSTA comporterebbe una violazione di una regola di questa COSTITUZIONE.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+#### 5.3.3	testare potenziali OBIEZIONI
 
-#### 4.4.5 Integrative Decision-Making Process
+il FACILITATORE può testare se un’osservazione conta come un’OBIEZIONE verificando con l’OBIETTORE se la sua osservazione soddisfa i criteri previsti e come. nella valutazione delle risposte, il FACILITATORE potrà solamente giudicare se gli argomenti rappresentati dall’OBIETTORE, per la verifica di ciascun criterio, soddisfino o meno un ragionamento logico. il FACILITATORE non potrà invece considerare nel suo giudizio aspetti relativi all’accuratezza dell’argomentazione o all’importanza che la stessa può rivestire.
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+nei casi in cui un’OBIEZIONE venga sollevata relativamente ad una PROPOSTA che violerebbe la COSTITUZIONE, il FACILITATORE potrà chiedere conferma al SEGRETARIO del CERCHIO. se quest’ultimo stabilisce che non sussiste la violazione, il FACILITATORE respingerà l’OBIEZIONE.
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+#### 5.3.4	regole di INTEGRAZIONE
 
-### 4.5 Conflicts of Interpretation
+nel tentare di risolvere un’OBIEZIONE, si applicano le seguenti regole:
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+•	(a) il FACILITATORE deve testare un’OBIEZIONE se richiesto da qualunque CIRCLE MEMBER. se i criteri di validità non sono verificati, il FACILITATORE dovrà scartarla.
+•	(b) l’OBIETTORE deve tentare di trovare una rettifica alla PROPOSTA che possa risolvere sia l’OBIEZIONE che la TENSIONE del PROPONENTE. se il FACILITATORE ritiene che l’OBIETTORE non stia facendo questo tentativo in buona fede, il FACILITATORE dovrà considerare abbandonata l’OBIEZIONE e lasciarla cadere.
+•	(c) ciascun CIRCLE MEMBER può porre al PROPONENTE delle domande volte a chiarire la TENSIONE dalla quale la PROPOSTA è nata, o anche degli esempi da condividere per meglio comprendere tale TENSIONE. se il FACILITATORE dovesse riconoscere che il PROPONENTE non sta rispondendo in buona fede, allora dovrà far cadere la PROPOSTA.
+•	(d) l’OBIETTORE può suggerire una PROPOSTA rettificata argomentando il motivo per cui questa sia in grado di risolvere la TENSIONE. successivamente, su richiesta dell’OBIETTORE, il PROPONENTE dovrà illustrare una valida ragione per cui la PROPOSTA rettificata non sarebbe in grado di risolvere la TENSIONE in almeno uno degli esempi che il PROPONENTE ha utilizzato per descrivere la propria TENSIONE. se necessario, il PROPONENTE potrà aggiungere un ulteriore esempio per dimostrare ciò. se il FACILITATORE dovesse ritenere che il PROPONENTE non è in grado o non ha intenzione di agire in questo modo, allora dovrà far cadere la PROPOSTA.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+#### 5.3.5	il PROCESSO di ELEZIONE INTEGRATIVA
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+qualunque CIRCLE MEMBER potrà avviare il PROCESSO di GOVERNANCE del CERCHIO anche richiedendo l’elezione di un CIRCLE REP, del FACILITATORE o del SEGRETARIO. in questo caso, il FACILITATORE in carica dovrà attuare il PROCESSO di ELEZIONE INTEGRATIVA come segue:
 
-### 4.6 Process Breakdown
+•	(a) DESCRIVERE IL RUOLO: come prima cosa il FACILITATORE identifica il RUOLO coinvolto dall’elezione e fissa un termine per l’elezione. egli potrà anche fornire ulteriori informazioni, rilevanti per l’elezione. in questa fase e nella successiva, nessuno potrà argomentare su qualunque potenziale candidato.
+•	(b) NOMINARE I CANDIDATI: ciascun CIRCLE MEMBER utilizza una votazione o un qualunque altro meccanismo elettivo privato per nominare il candidato eleggibile che ritiene possa essere il più adeguato al RUOLO. i CIRCLE MEMBER devono aggiungere alla scelta espressa anche il proprio nome e non è consentito ad alcuno né di astenersi né di nominare più persone.
+•	(c) ROUND DI CONDIVISIONE DELLE NOMINE: in questa fase il FACILITATORE condivide le nomine con tutti i CIRCLE MEMBER. ciascuna persona nominata esprime, quando è il suo turno, il motivo per il quale ritiene di poter essere una scelta valida per il RUOLO. nessuno 
+•	(d) ROUND DI MODIFICA DELLE NOMINE: quando tutte le nomine sono state condivise, ogni CIRCLE MEMBER può modificare la propria scelta, motivandola. non è consentito il dibattito.
+•	(e) ESPLICITARE UNA PROPOSTA: il FACILITATORE effettua il conteggio delle nomine ed esprime la PROPOSTA di eleggere il candidato col maggior numero di voti. in caso di pareggio, il FACILITATORE potrà attuare una delle seguenti possibilità: 
+i)	se solo uno dei due candidati ha votato per se stesso, proporre questa persona;
+ii)	se il pareggio coinvolge l’attuale energizzatore del RUOLO, riproporre la stessa persona;
+iii)	scegliere alla cieca, in maniera casuale, fra i candidati e proporre la persona così estratta;
+iv)	riproporre un passaggio precedente chiedendo a ciascun CIRCLE MEMBER che ha proposto un candidato diverso da quelli che sono arrivati in testa ed in pareggio, di cambiare la propria scelta in favore di uno di quelli in ballottaggio.
+•	(f) ROUND DI OBIEZIONI: il FACILITATORE chiede a ciascun CIRCLE MEMBER se ha OBIEZIONI alla PROPOSTA formulata. se dovessero così emergere OBIEZIONI, il FACILITATORE potrà consentire il dibattito per tentare di risolverle oppure potrà decidere di scartare la PROPOSTA. in quest’ultimo caso il FACILITATORE dovrà ritornare al passo precedente di questo processo, ignorare tutte le nomine relative al candidato scartato e applicare le stesse regole lì previste per selezionare un altro candidato da proporre.
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
+un CERCHIO può adottare una POLICY per definire un tempo limite entro il quale nominare un candidato o rispondere ad una PROPOSTA avanzata durante il PROCESSO DI ELEZIONE INTEGRATIVA. oltrepassato quel limite, il FACILITATORE dovrà escludere chiunque non abbia fornito risposta alla PROPOSTA.
 
-#### 4.6.1 Breakdown from Failed Governance
+#### 5.3.6	sostituti per FACILITATORE e SEGRETARIO
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+è possibile ricorrere ad un sostituto nel caso in cui i RUOLI di FACILITATORE e SEGRETARIO non fossero energizzati da alcuno. allo stesso modo si potrà ricorrere ad un sostituto ogni volta che gli energizzatori di tali ruoli dovessero risultare indisponibili all’occorrenza o avessero, per qualunque ragione, chiesto di essere temporaneamente sostituiti.
 
-#### 4.6.2 Process Restoration
+quando occorre un sostituto, questi sono i criteri, in ordine di precedenza, da applicare:
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+•	(a) qualcuno specificato dalla persona stessa che deve essere rimpiazzata;
+•	(b) per il FACILITATORE, il SEGRETARIO del CERCHIO e per il SEGRETARIO, il FACILITATORE del CERCHIO;
+•	(c) il CIRCLE LEAD del CERCHIO o, in caso di più CIRCLE LEAD, il primo che si offre di fare da sostituto;
+•	(d) il primo CIRCLE MEMBER che si offre di fare da sostituto.
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead.
+### 5.4	RIUNIONI DI GOVERNANCE
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+il processo di GOVERNANCE dei CERCHI si sviluppa sia grazie al processamento asincrono (cioè non nell’ambito di un meeting) di PROPOSTE fatte in qualunque momento, che in maniera cadenzata e con un processamento real-time all’interno di periodiche RIUNIONI DI GOVERNANCE. inoltre un CIRCLE MEMBER potrà richiedere di riportare il processamento asincrono di una PROPOSTA da parte del CERCHIO (in qualunque fase questo si trovi) all’interno di una RIUNIONE DI GOVERNANCE per poterle quindi far seguire un processamento real-time. questa richiesta interrompe immediatamente il processamento asincrono in atto.
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+il SEGRETARIO del CERCHIO ha in carico la programmazione delle RIUNIONI DI GOVERNANCE e il suo FACILITATORE ne ha in carico la conduzione in linea con le regole qui espresse. oltre alle RIUNIONI DI GOVERNANCE del CERCHIO programmate regolarmente, il SEGRETARIO provvederà anche alla una puntuale programmazione delle stesse allorquando richieste da un qualunque CIRCLE MEMBER. il richiedente potrà specificare ulteriormente il motivo della richiesta speciale ed il perimetro dei cambiamenti che la riunione potrà determinare. questo si potrebbe tradurre nel focalizzare la riunione su una specifica TENSIONE, o limitarne la portata alla modifica solo di alcuni RUOLI specifici. in tal caso, la RIUNUIONE DI GOVERNANCE specificamente organizzata, dovrà limitarsi al solo processamento di quanto dichiarato e alla possibilità di modifica solamente all’interno del perimetro rappresentato.
 
-#### 4.6.3 Escalation of Process Breakdown
+#### 5.4.1	partecipazione
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+tutti i CIRCLE MEMBER di un CERCHIO possono partecipare ad una sua RIUNIONE DI GOVERNANCE. gli effettivi FACILITATORE e SEGRETARIO possono partecipare anche se non dovessero essere CIRCLE MEMBER del CERCHIO. in tal caso infatti loro sono assimilabili a CIRCLE MEMBER temporanei, per la durata del meeting.
 
+in qualità di CIRCLE REP per un CERCHIO, potrai invitare qualunque PARTNER a partecipare alla RIUNIONE DI GOVERNANCE di qualunque CERCHIO immediatamente contenente il tuo. ti è data la possibilità di estendere tale invito solamente ad un PARTNER alla volta, e solo per aiutare nel processamento di una specifica TENSIONE che riguarda il CERCHIO che rappresenti. dovrai avvertire questa TENSIONE tu stesso, e ritenere sensato che essa venga processata nel CERCHIO. le persone che inviterai di volta in volta sono assimilate a CIRCLE MEMBER temporanei, per la durata del meeting, o fino al momento in cui ritirerai l’invito. il tuo ospite può rappresentare con te il tuo CERCHIO durante il meeting, ma solo durante il processamento di quella specifica TENSIONE.
 
-## Article 5: Authority of Role Leads
+oltre a quanto sopra riportato, nessun altro può partecipare alle RIUNIONI DI GOVERNANCE di un CERCHIO.
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+#### 5.4.2	preavviso e durata
 
-### 5.1 Constraints on Authority
+la RIUNIONE DI GOVERNANCE di un CERCHIO può aver luogo solo se il SEGRETARIO ha provveduto ad informare tutti i CIRCLE MEMBER con adeguato preavviso. rispettata questa regola, non occorre il raggiungimento di alcun quorum per avviare tale riunione, a meno che una POLICY dia differenti specifiche.
 
-As a Role Lead, you must honor the following constraints on your authority.
+le RIUNIONI DI GOVERNANCE si concludono quando raggiungono la durata prevista inizialmente dal SEGRETARIO. questi può eventualmente prolungare tale durata durante lo stesso svolgimento del meeting, a condizione che nessun CIRCLE MEMBER richieda diversamente.
 
-#### 5.1.1 Don't Violate Policies
+ogni CIRCLE MEMBER che si perde una parte o l’intera RIUNIONE DI GOVERNANCE viene comunque considerato come avente goduto il diritto di intervenire su ogni PROPOSTA presentata durante il meeting. questo significa che un CERCHIO potrà adottare PROPOSTE maturate durante una RIUNIONE DI GOVERNANCE indipendentemente da chi è assente.
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+#### 5.4.3	 il processo con cui si articola il meeting
 
-#### 5.1.2 Get Permission Before Impacting Domains
+il FACILITATORE dovrà adottare il seguente processo durante una RIUNIONE DI GOVERNANCE:
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+•	(a) CHECK-IN ROUND: ciascun partecipante, a turno, condivide il proprio stato o pronuncia un qualunque altro commento di apertura per il meeting. non è consentito il dibattito.
+•	(b) COSTRUZIONE DELL’AGENDA & PROCESSAMENTO: il FACILITATORE costruisce un’agenda di TENSIONI da processare e poi processa ciascun punto, uno alla volta, secondo l’ordine di registrazione.
+•	(c) CLOSING ROUND: ciascun partecipante, quando è il suo turno, condivide una riflessione di chiusura sul meeting. non è consentito il dibattito.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+in qualunque momento, durante lo svolgimento di questo processo, un partecipante può richiedere una pausa di TIMEOUT. il FACILITATORE potrà accordare o negare tale richiesta. durante il TIMEOUT i partecipanti possono discutere questioni amministrative o le regole di questa COSTITUZIONE. è consentito di non utilizzare il TIMEOUT per lavorare sulla risoluzione di una TENSIONE o di una PROPOSTA o di un’OBIEZIONE. il FACILITATORE può interrompere il TIMEOUT in qualunque momento e ripristinare il prosieguo del meeting così come previsto dal suo processo di svolgimento.
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+una POLICY del CERCHIO può apportare aggiunte a questo processo ma non può entrare in conflitto con alcuna delle regole e dei requisiti definiti in questo articolo della COSTITUZIONE.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+#### 5.4.4	costruzione dell’agenda
 
-#### 5.1.3 Get Authorization Before Spending Money
+sulla base delle richieste presentate dai partecipanti (anche su invito a farlo), il FACILITATORE costruisce un’agenda di TENSIONI da processare. questa attività viene compiuta durante il meeting stesso e non in anticipo. ciascun partecipante potrà richiedere l’aggiunta di uno o più punti in agenda, secondo le proprie esigenze, fornendo un breve riferimento per ciascuno di essi. non dovrà invece dilungarsi in ulteriori spiegazioni e, in questa fase, il dibattito non è ammesso. 
+ulteriori punti in agenda potranno essere aggiunti durante il meeting, allorquando si passerà dal processamento di una TENSIONE alla successiva.
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+per lo svolgimento di una RIUNIONE DI GOVERNANCE periodica, il FACILITATORE potrà scegliere l’ordine con cui processare i vari punti in agenda. tuttavia, su richiesta di un qualunque partecipante, qualunque punto che richieda un’elezione dovrà precedere tutti gli altri. nel caso di una RIUNIONE DI GOVERNANCE organizzata su specifica richiesta di un partecipante, quest’ultimo potrà scegliere l’ordine di processamento dei punti in agenda.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+i punti in agenda sono processati uno alla volta. per processare la richiesta di un’elezione, il FACILITATORE ricorre al PROCESSO DI ELEZIONE INTEGRATIVO. per processare qualunque altro tipo di punto in agenda, il FACILITATORE farà riferimento al PROCESSO DECISIONALE INTEGRATIVO di seguito definito.
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+#### 4.4.5 5.4.5	il PROCESSO DECISIONALE INTEGRATIVO
 
-### 5.2 Interpretation Authority
+il FACILITATORE dovrà attivare il PROCESSO DECISIONALE INTEGRATIVO come di seguito indicato:
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+•	(a) PRESENTAZIONE DELLA PROPOSTA: come primo passo, il PROPOSITORE deve descrivere la TENSIONE e, con essa, una PROPOSTA che potrebbe risolverla. su richiesta del PROPOSITORE, il FACILITATORE può consentire agli altri partecipanti di fornire aiuto per costruire tale PROPOSTA. in ogni caso, sarà cura del FACILITATORE fare in modo che i contributi siano focalizzati solamente alla composizione di una PROPOSTA iniziale indirizzabile alla TENSIONE in questione. il FACILITATORE dovrà impedire sia il riferimento ad altre TENSIONI sia ogni eventuale dubbio/preoccupazione circa la PROPOSTA.
+•	(b) DOMANDE DI CHIARIMENTO: successivamente alla formulazione della PROPOSTA da parte del PROPONENTE, gli altri partecipanti potranno fare domande per comprendere meglio la PROPOSTA stessa o la TENSIONE da cui è nata. il PROPONENTE potrà rispondere a ciascuna domanda o potrà anche astenersi dal farlo. il FACILITATORE non dovrà consentire alcuna reazione o opinione circa la PROPOSTA né dovrà consentire altre discussioni di alcun tipo. 
+è possibile per ciascun partecipante richiedere al SEGRETARIO di leggere la PROPOSTA o di mostrare qualunque GOVERNANCE già esistente, sia durante questa fase che in qualunque altro istante durante il quale è consentito ai partecipanti di prendere la parola. il SEGRETARIO è tenuto a soddisfare questo tipo di richiesta.
+•	(c) REACTION ROUND: successivamente, ciascun partecipante - ad esclusione del PROPONENTE – potrà condividere la propria reazione alla PROPOSTA. questo intervento è regolato in maniera tale che tale possibilità sia data ad una persona per volta. il FACILITATORE dovrà prontamente bloccare ogni commento fuori turno, così come ogni tentativo di far nascere un dibattito o qualunque altro intervento relativo alla reazione di uno dei partecipanti piuttosto che alla PROPOSTA in questione.
+•	(d) MODIFICHE & CHIARIMENTI: successivamente, il PROPONENTE potrà condividere commenti in risposta alle reazioni emerse dal precedente round ed apportare modifiche alla PROPOSTA. in ogni caso, l’intento principale di ogni modifica deve essere quello di poter risolvere al meglio la TENSIONE espressa dal PROPONENTE e non quelle sollevate da altri. il FACILITATORE dovrà prontamente bloccare eventuali commenti da parte di partecipanti che non siano il PROPONENTE o il SEGRETARIO. per altro, il coinvolgimento dello stesso SEGRETARIO deve essere centrato solamente sulla corretta riformulazione della PROPOSTA modificata.
+•	(e) OBJECTION ROUND: successivamente, ciascun partecipante, uno alla volta e quando sarà il proprio turno, potrà sollevare potenziali OBIEZIONI all’adozione della PROPOSTA formulata. il FACILITATORE dovrà prontamente bloccare e scoraggiare discussioni o risposte di ogni tipo. egli dovrà testare le OBIEZIONI al fine di individuare quelle valide. se non emergeranno OBIEZIONI valide, la PROPOSTA sarà adottata.
+•	(f) INTEGRAZIONE: se sono emerse OBIEZIONI valide, il FACILITATORE dovrà processarle tutte, una alla volta. per ciascuna, i partecipanti ragionano insieme per trovare una potenziale modifica alla PROPOSTA che possa risolvere l’OBIEZIONE. il FACILITATORE dichiara risolta un’OBIEZIONE allorquando l’OBIETTORE conferma che la PROPOSTA, così come modificata, dissolve l’OBIEZIONE e, a sua volta, il PROPONENTE conferma che lo è anche la sua TENSIONE. 
+durante questa fase, il FACILITATORE dovrà applicare le regole di INTEGRAZIONE descritte in questo articolo.
+una volta che tutte le OBIEZIONI risulteranno essere risolte, il FACILITATORE ripete un OBJECTION ROUND sulla PROPOSTA modificata.
 
-### 5.3 Individual Initiative
+### 5.5	CONFLITTI DI INTERPRETAZIONE
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+in qualità di PARTNER, la tua interpretazione circa gli articoli di questa COSTITUZIONE e la GOVERNANCE dell’organizzazione potrà confliggere con quella di un altro PARTNER. in questi casi, entrambe le parti possono rivolgersi al SEGRETARIO di uno qualunque dei CERCHI coinvolti per determinare quale interpretazione adottare. in seguito alla risposta del SEGRETARIO, ciascuno dovrà uniformarsi alla regolamentazione da lui espressa, fin quando il testo o il contesto rilevanti saranno modificati.
 
-#### 5.3.1 Allowed Situations
+in seguito alla regolamentazione individuata per risolvere un conflitto, un SEGRETARIO potrà pubblicare la stessa, compresa la logica da essa sottesa. in tal caso, il SEGRETARIO di quel CERCHIO e di qualunque CERCHIO in esso compreso dovranno adoperarsi per rispecchiare tale logica in ogni eventuale futura regolamentazione a meno che una nuova ed inconfutabile circostanza renda obsoleta quella stessa logica.
 
-You may only take Individual Initiative when all of the following are true:
+potrai appellarti alla interpretazione di un SEGRETARIO nei confronti del SEGRETARIO di qualunque SUPER-CERCHIO. il SEGRETARIO di un SUPER-CERCHIO può modificare l’interpretazione del SEGRETARIO di qualunque SOTTO-CERCHIO.
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+### 5.6	il PROCESS BREAKDOWN
 
-#### 5.3.2 Communication & Restoration
+si verifica un PROCESS BREAKDOWN allorquando un CERCHIO mostri una linea di condotta o un risultato che viola le regole di questa COSTITUZIONE. il FACILITATORE o il SEGRETARIO di un CERCHIO hanno l’autorità di dichiarare tale evento quando si verifica all’interno del proprio CERCHIO o SOTTO-CERCHIO, facendo appello al proprio ragionevole giudizio.
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+#### 5.6.1	BREAKDOWN per fallimento della GOVERNANCE
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+il FACILITATORE di un CERCHIO potrà ulteriormente dichiarare un PROCESS BREAKDOWN del CERCHIO nel caso in cui una specifica PROPOSTA fallisca nel suo intento di pervenire ad una soluzione, a seguito di una ragionevole quantità di tempo e risorse impegnate per tentare di raggiungerla.
 
+#### 5.6.2	ripristino del processo
 
-## Article 6: People & Partnership
+ogni volta che viene dichiarato, da un RUOLO autorizzato, il PROCESS BREAKDOWN all’interno di un CERCHIO, si determinano i seguenti eventi:
 
-### 6.1 Partner Relationships
+•	(a) il FACILITATORE acquisisce l’autorità di giudicare la logica e la rilevanza di ciascuna argomentazione fatta per validare PROPOSTE o OBIEZIONI nel CERCHIO;
+•	(b) il FACILITATORE del SUPER-CERCHIO acquisisce un nuovo PROGETTO volto a ripristinare il corretto processo all’interno del CERCHIO;
+•	(c) il FACILITATORE del SUPER-CERCHIO acquisisce l’autorità di subentrare come FACILITATORE o SEGRETARIO del CERCHIO;
+•	(d) il FACILITATORE del SUPER-CERCHIO può assegnare un ulteriore CIRCLE LEAD al CERCHIO per tutta la durata del PROCESS BREAKDOWN. qualunque decisione presa da questa persona, nel suo RUOLO di CIRCLE LEAD, supera e previene qualunque confitto dovesse generarsi a causa della decisione presa da un altro CIRCLE LEAD.
 
-When the Organization grants Partner status to someone, it creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+queste autorità cessano appena viene ripristinato il corretto processo all’interno del CERCHIO, obiettivo quest’ultimo in carico al FACILITATORE del SUPER-CERCHIO.
 
-### 6.2 Relational Agreements
+se il CERCHIO che viene a trovarsi in PROCESS BREAKDOWN non ha SUPER-CERCHI, allora tutti i poteri sopra elencati sono in carico al suo FACILITATORE.
 
-The Organization's Partners may make ***“Relational Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+#### 5.6.3	l’escalation di un PROCESS BREAKDOWN
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
+lo stato di PROCESS BREAKDOWN all’interno di un CERCHIO non viene automaticamente considerato come PROCESS BREAKDOWN del suo SUPER-CERCHIO. però, se rimane irrisolto per un tempo irragionevolmente prolungato, allora anche il SUPER-CERCHIO viene considerato nello stato di PROCESS BREAKDOWN.
 
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+
+
+## articolo 6 – PERSONE e PARTNERSHIP
+
+### 6.1	RELAZIONE DI PARTNERSHIP
+
+l’ORGANIZZAZIONE può riconoscere lo status di PARTNER a chiunque abbia accettato di attenersi a tutti i termini pertinenti di questa COSTITUZIONE. con ciò si viene a creare una RELAZIONE DI PARTNERSHIP tra quella persona e l’ORGANIZZAZIONE. qualunque impegno assunto fra le parti così costituite rientra nella suddetta relazione fra PARTNER. se non diversamente concordato, ciascuna delle parti necessiterà del consenso dell’altra per modificare questi accordi.
+in ogni caso, ciascuna delle parti potrà concludere tale relazione senza il consenso dell’altra. così facendo cessano immediatamente i diritti e le responsabilità di quella persona, come PARTNER.
+
+### 6.2	ACCORDI DI LAVORO
+
+i PARTNER dell’organizzazione possono stringere mutui ACCORDI DI LAVORO. questi riguardano modalità di inter-relazione o di energizzazione delle proprie funzioni generali di PARTNER. 
+in tal caso dovranno concentrarsi sul modellare comportamenti finalizzati allo sviluppo di attività lavorative. 
+tali accordi non possono stabilire aspettative di lavoro che deve essere svolto da un RUOLO e nemmeno aspettative su come un PARTNER assegnerà le PRIORITÀ fra i differenti RUOLI che energizza. possono semplicemente specificare azioni concrete da intraprendere o un’etica comportamentale da onorare. non possono invece includere impegni al raggiungimento di specifici risultati o inglobare qualità astratte.
+
+come PARTNER puoi richiedere un ACCORDO DI LAVORO con un altro PARTNER per tue scelte personali o nell’energizzare un RUOLO a te assegnato. l’altro PARTNER potrà accettare o rifiutare l’accordo proposto sulla base delle proprie preferenze personali. entrambe le parti potranno successivamente annullare l’accordo senza necessità di consenso dell’altra parte, se non diversamente pattuito.
+
+come PARTNER hai il dovere di rispettare ogni ACCORDO DI LAVORO fatto. chiunque, nel facilitare un meeting o un processo, può anche far valere tali accordi durante lo svolgimento della riunione o l’esecuzione del processo, fintantoché in tal modo non si vada in conflitto con quanto definito in questa COSTITUZIONE.
 
 ---
 
-# **Appendix A**
+# APPENDICE A
 
-## Circle Lead
+## CIRCLE LEAD
 
-**Purpose:** _The Circle Lead holds the Purpose of the overall Circle._
+PROPOSITO: _il CIRCLE LEAD detiene il PROPOSITO dell’intero CERCHIO_
 
-**Domains:**
+DOMINI:
 
-- Role assignments for the Circle's Roles
+•	assegnazione dei RUOLI del CERCHIO
 
-**Accountabilities:**
+RESPONSABILITÀ:
 
-_The Circle Lead holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
+_il CIRCLE LEAD detiene tutte le RESPONSABILITÀ del CERCHIO nella misura in cui queste non sono coperte dai RUOLI definiti nel suo CERCHIO o dai suoi PROCESSI._
 
-## Circle Rep
+## CIRCLE REP
 
-**Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
+PROPOSITO: indirizzare e risolvere le TENSIONI rilevanti per un CERCHIO più ampio.
 
-**Accountabilities:**
+DOMINI: -
 
-- Seeking to understand Tensions conveyed by Role Leads within the Circle
-- Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- Processing Tensions within a broader Circle to remove constraints on the Circle
+RESPONSABILITÀ:
 
-## Facilitator
+•	sforzarsi di comprendere le TENSIONI rappresentate dagli energizzatori dei RUOLI del CERCHIO
+•	riconoscere le TENSIONI appropriate per essere processate all’interno del CERCHIO più ampio che contiene il proprio
+•	processare TENSIONI all’interno del CERCHIO più ampio per rimuovere ostacoli nel proprio CERCHIO
 
-**Purpose:** Circle governance and operational practices aligned with the Constitution.
+## FACILITATORE
 
-**Accountabilities:**
+PROPOSITO: GOVERNANCE del CERCHIO ed allineamento delle sue pratiche operative alla COSTITUZIONE.
 
-- Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
-- Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
-- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown if one is discovered
+DOMINI: -
 
-## Secretary
+RESPONSABILITÀ:
 
-**Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
+•	facilitare il PROCESSO di GOVERNANCE e le RIUNIONI TATTICHE del CERCHIO o per quelle richieste dai suoi RUOLI
+•	istruire gli altri CIRCLE MEMBER sulle regole ed i PROCESSI della COSTITUZIONE, su richiesta dell’interessato o quando necessario durante gli stessi meeting
+•	su richiesta, condurre audit su meeting e registrazioni dei SOTTO-CERCHI e, se rilevato, dichiarare lo stato di PROCESS BREAKDOWN
 
-**Domains:**
+## SEGRETARIO
 
-- All governance records of the Circle
+PROPOSITO: sovrintendere alle registrazioni della GOVERNANCE del CERCHIO e rendere stabile il relativo processo di gestione documentale.
 
-**Accountabilities:**
+DOMINI:
 
-- Scheduling Governance Meetings and Tactical Meetings for the Circle
-- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
-- Requesting elections for elected Roles after each term expires
-- Interpreting the Constitution and anything under its authority upon request
+•	tutte le registrazioni di GOVERNANCE del CERCHIO
+
+RESPONSABILITÀ:
+
+•	programmare le RIUNIONI di GOVERNANCE e TATTICHE per il CERCHIO
+•	registrare e pubblicare i risultati delle RIUNIONI di GOVERNANCE e TATTICHE
+•	alla scadenza dei termini, riprogrammare le elezioni dei RUOLI elettivi
+•	su richiesta, interpretare la COSTITUZIONE e qualunque questione che ricada sotto l’autorità della stessa.
+
 
 ---
 
